@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorkWithRoom</string>
+    <string name="save">Save</string>
+    <string name="enter_a_description_of_the_note">Enter a description of the note</string>
+    <string name="enter_the_name_of_the_note">Enter the name of the note</string>
+</resources>
